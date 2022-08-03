@@ -1,4 +1,7 @@
 # belajar-github
 Kita akan main-main aja mapren
---
-*From **scratch** je lahh...*
+- menambah suatu squash
+- menambah 2 squash
+- menambah 3 squash
+=======
+
