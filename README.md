@@ -2,3 +2,4 @@
 Kita akan main-main aja mapren
 
 - menambah suatu squash
+- menambah 2 squash
