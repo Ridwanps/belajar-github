@@ -10,3 +10,4 @@ def sapa(nama, lokasi):
   
 # deklarasikan dan panggil
 sapa(Bambang,Klaten)
+sapa(Ridwan,Luzern)
